@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "amongus:block/rosequartz_ore"
+  }
+}

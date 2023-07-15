@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "amongus:rosequartz_block"
+    }
+  ],
+  "result": {
+    "item": "amongus:rosequartz",
+    "count": 9
+  }
+}

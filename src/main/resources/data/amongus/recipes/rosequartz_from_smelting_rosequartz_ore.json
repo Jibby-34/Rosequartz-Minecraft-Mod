@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 250,
+  "experience": 0.35,
+  "group": "rosequartz",
+  "ingredient": {
+    "item": "amongus:rosequartz_ore"
+  },
+  "result": "amongus:rosequartz"
+}

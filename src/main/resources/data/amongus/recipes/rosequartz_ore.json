@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "amongus:rosequartz"
+    }
+  },
+  "result": {
+    "item": "amongus:rosequartz_block"
+  }
+}
